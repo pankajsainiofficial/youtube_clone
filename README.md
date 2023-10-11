@@ -3,7 +3,8 @@
 Clone App Link : - https://youtube-clone-by-darkshadow.netlify.app
 
 
-![Youtube_clone](https://github.com/pankajsainiofficial/youtube_clone/assets/65286148/748b86c5-da05-4fb9-9ba9-f16756f7175f)
+![Youtube_clone](https://github.com/pankajsainiofficial/youtube_clone/assets/65286148/315d9420-2f0b-4a2c-aaf3-a9e15fa22cbb)
+
 
 Fully Responsive.
 
